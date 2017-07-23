@@ -1,0 +1,12 @@
+$ definitions = [Definitions.cmacc]
+
+# Example for definitions
+
+## Definitions
+1. {{definitions.agreement}}
+1. {{definitions.confidentialInformation}}
+1. {{definitions.confidentialityEngagement}}
+1. {{definitions.disclosingParty}}
+
+## Contract content
+This is a reference to a definition {{def definitions.agreement}}
