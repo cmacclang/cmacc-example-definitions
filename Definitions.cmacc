@@ -1,4 +1,4 @@
 $ agreement = [./definitions/Agreement.cmacc]
-$ confidentialInformation = [./definitions/ConfidentialInformation.cmacc]
-$ confidentialityEngagement = [./definitions/ConfidentialityEngagement.cmacc]
+$ confidentialInformation= [./definitions/ConfidentialInformation.cmacc]
+$ confidentialityEngagement= [./definitions/ConfidentialityEngagement.cmacc]
 $ disclosingParty = [./definitions/DisclosingParty.cmacc]

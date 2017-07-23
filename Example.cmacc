@@ -9,4 +9,4 @@ $ definitions = [./Definitions.cmacc]
 1. {{definitions.disclosingParty}}
 
 ## Contract content
-This is a reference to a definition {{def definitions.agreement}}
+// This is a reference to a definition {{def definitions.agreement}}
