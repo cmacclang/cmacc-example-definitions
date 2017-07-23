@@ -4,8 +4,11 @@ $ definitions = [./Definitions.cmacc]
 
 ## Definitions
 1. {{definitions.agreement}}
+
 1. {{definitions.confidentialInformation}}
+
 1. {{definitions.confidentialityEngagement}}
+
 1. {{definitions.disclosingParty}}
 
 ## Contract content
