@@ -6,12 +6,11 @@ This is a contract with definitions.
 
 ## Definitions
 1. {{definitions.agreement}}
-
 1. {{definitions.confidentialInformation}}
-
 1. {{definitions.confidentialityEngagement}}
-
 1. {{definitions.disclosingParty}}
 
 ## Contract content
 This is a reference to a definition {{#definition definitions.agreement}}
+
+This is a reference to an other definition {{#definition definitions.disclosingParty}}
