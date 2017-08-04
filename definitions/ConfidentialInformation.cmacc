@@ -1,10 +1,13 @@
 ---
 Definition: Confidential Information
 ---
+
+$ disclosingParty = [./DisclosingParty.cmacc]
+
 **<a name="Confidential-Information">Confidential Information</a>**  
-*"Confidential Information"* means any and all technical and non-technical information disclosed by Disclosing Party to Receiving Party under this Agreement including without limitation information regarding:
+*"Confidential Information"* means any and all technical and non-technical information disclosed by to Receiving Party under this Agreement including without limitation information regarding:
 1. patent and patent applications;
 1. trade secrets;
 1. proprietary and confidential information, ideas, techniques, sketches, drawings, works of authorship, models, inventions, know-how, processes, apparatuses, equipment, algorithms, software programs, software source documents, and formulae related to the current, future, and proposed products and services of Disclosing Party, including without limitation Disclosing Party's information concerning research, experimental work, development, design details and specifications, engineering, financial information, procurement requirements, purchasing, manufacturing, customer lists, investors, employees, business and contractual relationships, business forecasts, sales and merchandising, and marketing plans
-1. information Disclosing Party provides regarding third parties; and
-1. all other information that Receiving Party knew, or reasonably should have known, was Confidential Information of Disclosing Party.
+1. information {{#definition disclosingParty}} provides regarding third parties; and
+1. all other information that Receiving Party knew, or reasonably should have known, was Confidential Information of {{#definition disclosingParty}}.
