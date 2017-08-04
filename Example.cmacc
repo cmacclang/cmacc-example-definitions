@@ -2,7 +2,7 @@ $ definitions = [./Definitions.cmacc]
 
 # Example for definitions
 
-This is a contract with definitions.
+<center>This is a contract with definitions.</center>
 
 ## Definitions
 1. {{definitions.agreement}}
