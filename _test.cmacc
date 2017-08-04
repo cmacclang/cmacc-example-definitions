@@ -1,0 +1,69 @@
+// Definitions
+
+$ agreement = [github:///cmacclang/cmacc-lib-definitions/master/US/Agreement.cmacc]
+
+$ effective_Date = [github:///cmacclang/cmacc-lib-definitions/master/US/EffectiveDate.cmacc]
+
+$ entity = [github:///cmacclang/cmacc-lib-definitions/master/US/Entity.cmacc]
+
+$ legal_Proceeding = [github:///cmacclang/cmacc-lib-definitions/master/US/LegalProceeding.cmacc]
+
+$ party = [github:///cmacclang/cmacc-lib-definitions/master/US/Party.cmacc]
+
+$ parties = [github:///cmacclang/cmacc-lib-definitions/master/US/Parties.cmacc]
+
+$ p1 = [github:///cmacclang/cmacc-lib-definitions/master/US/P1.cmacc]
+
+$ p2 = [github:///cmacclang/cmacc-lib-definitions/master/US/P2.cmacc]
+
+$ person = [github:///cmacclang/cmacc-lib-definitions/master/US/Person.cmacc]
+
+$ purpose = [github:///cmacclang/cmacc-lib-definitions/master/US/Purpose.cmacc]
+
+$ tribunal = [github:///cmacclang/cmacc-lib-definitions/master/US/Tribunal.cmacc]
+
+// Document
+
+## Definitions
+
+<ul type="none"><li>
+
+{{agreement}}
+
+</li><li>
+
+{{effective_Date}}
+
+</li><li>
+
+{{entity}}
+
+</li><li>
+
+{{legal_Proceeding}}
+
+</li><li>
+
+{{party}}
+
+</li><li><ol><li>
+
+{{p1}}
+
+</li><li>
+
+{{p2}}
+
+</li></ol></li><li>
+
+{{person}}
+
+</li><li>
+
+{{purpose}}
+
+</li><li>
+
+{{tribunal}}
+
+</li></ul>

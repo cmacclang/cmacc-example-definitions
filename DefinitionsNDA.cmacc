@@ -1,0 +1,91 @@
+// Definitions
+
+$ confidential_Information = [github:///cmacclang/cmacc-lib-definitions/US/master/ConfidentialInformation.cmacc]
+
+$ confidentiality_Engagement = [github:///cmacclang/cmacc-lib-definitions/US/master/ConfidentialityEngagement.cmacc]
+
+$ agreement = [github:///cmacclang/cmacc-lib-definitions/US/master/Agreement.cmacc]
+
+$ disclosing_Party = [github:///cmacclang/cmacc-lib-definitions/US/master/DisclosingParty.cmacc]
+
+$ effective_Date = [github:///cmacclang/cmacc-lib-definitions/US/master/EffectiveDate.cmacc]
+
+$ entity = [github:///cmacclang/cmacc-lib-definitions/US/master/Entity.cmacc]
+
+$ legal_Proceeding = [github:///cmacclang/cmacc-lib-definitions/US/master/LegalProceeding.cmacc]
+
+$ party = [github:///cmacclang/cmacc-lib-definitions/US/master/Party.cmacc]
+
+$ p1 = [github:///cmacclang/cmacc-lib-definitions/US/master/P1.cmacc]
+
+$ p2 = [github:///cmacclang/cmacc-lib-definitions/US/master/P2.cmacc]
+
+$ person = [github:///cmacclang/cmacc-lib-definitions/US/master/Person.cmacc]
+
+$ purpose = [github:///cmacclang/cmacc-lib-definitions/US/master/Purpose.cmacc]
+
+$ receiving_Party = [github:///cmacclang/cmacc-lib-definitions/US/master/ReceivingParty.cmacc]
+
+$ tribunal = [github:///cmacclang/cmacc-lib-definitions/US/master/Tribunal.cmacc]
+
+// Document
+
+## Definitions
+
+<ul type="none"><li>
+
+{{agreement}}
+
+</li><li>
+
+{{confidential_Information}}
+
+</li><li>
+
+{{confidentiality_Engagement}}
+
+</li><li>
+
+{{disclosing_Party}}
+
+</li><li>
+
+{{effective_Date}}
+
+</li><li>
+
+{{entity}}
+
+</li><li>
+
+{{legal_Proceeding}}
+
+</li><li>
+
+{{party}}
+
+</li><li><ol>
+
+{{p1}}
+
+</li><li>
+
+{{p2}}
+
+</ol></li><li>
+
+{{person}}
+
+</li><li>
+
+{{purpose}}
+
+</li><li>
+
+{{receiving_Party}}
+
+</li><li>
+
+{{tribunal}}
+
+</li></ul>
